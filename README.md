@@ -5,6 +5,6 @@
 This is going to be in the main body!
 </body>
 </html>
-
-Your main writing can go here!
-Jerry Wang will be awesome !!
+this website includes the sum of all even numbers from 1 to 100.
+Amazing!
+(Jerry Wang will be awesome !!)
